@@ -1,0 +1,9 @@
+2026/08/06 11:50:36 [error] 6212#13320: *1 CreateFile() "D:\rays software\nginx-1.28.3/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2026/08/06 11:50:50 [notice] 16556#7376: signal process started
+2026/08/07 17:41:25 [error] 20732#14488: *1 CreateFile() "D:\rays software\nginx-1.28.3/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2026/08/07 17:48:58 [notice] 8076#1200: signal process started
+2026/09/03 13:05:14 [notice] 16152#18344: signal process started
+2026/09/03 13:19:33 [error] 616#2300: *1 CreateFile() "D:\rays software\nginx-1.28.3/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2026/09/03 13:20:18 [notice] 23180#22932: signal process started
+2026/10/02 11:27:27 [error] 11204#14456: *1 CreateFile() "D:\rays software\nginx-1.28.3/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2026/10/02 11:28:37 [notice] 972#20088: signal process started

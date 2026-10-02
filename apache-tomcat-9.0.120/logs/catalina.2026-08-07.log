@@ -1,0 +1,103 @@
+07-Aug-2026 17:35:16.051 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.120
+07-Aug-2026 17:35:16.058 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jul 3 2026 07:49:53 UTC
+07-Aug-2026 17:35:16.058 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.120.0
+07-Aug-2026 17:35:16.058 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+07-Aug-2026 17:35:16.058 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+07-Aug-2026 17:35:16.058 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+07-Aug-2026 17:35:16.058 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-21.0.12
+07-Aug-2026 17:35:16.058 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.12+7-LTS-205
+07-Aug-2026 17:35:16.060 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+07-Aug-2026 17:35:16.060 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\rays software\apache-tomcat-9.0.120
+07-Aug-2026 17:35:16.060 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\rays software\apache-tomcat-9.0.120
+07-Aug-2026 17:35:16.078 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+07-Aug-2026 17:35:16.078 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.invoke=ALL-UNNAMED
+07-Aug-2026 17:35:16.078 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+07-Aug-2026 17:35:16.078 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+07-Aug-2026 17:35:16.078 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+07-Aug-2026 17:35:16.078 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+07-Aug-2026 17:35:16.078 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+07-Aug-2026 17:35:16.078 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\rays software\apache-tomcat-9.0.120\conf\logging.properties
+07-Aug-2026 17:35:16.078 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+07-Aug-2026 17:35:16.078 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+07-Aug-2026 17:35:16.078 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+07-Aug-2026 17:35:16.078 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.io.useCanonCaches=false
+07-Aug-2026 17:35:16.078 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+07-Aug-2026 17:35:16.078 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\rays software\apache-tomcat-9.0.120
+07-Aug-2026 17:35:16.078 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\rays software\apache-tomcat-9.0.120
+07-Aug-2026 17:35:16.078 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\rays software\apache-tomcat-9.0.120\temp
+07-Aug-2026 17:35:17.328 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.3.8] using APR version [1.7.6].
+07-Aug-2026 17:35:17.334 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+07-Aug-2026 17:35:17.334 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+07-Aug-2026 17:35:17.342 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.21 9 Jun 2026]
+07-Aug-2026 17:35:17.772 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8081"]
+07-Aug-2026 17:35:17.809 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [2007] milliseconds
+07-Aug-2026 17:35:17.884 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+07-Aug-2026 17:35:17.888 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.120]
+07-Aug-2026 17:35:17.897 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\rays software\apache-tomcat-9.0.120\webapps\docs]
+07-Aug-2026 17:35:18.479 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\rays software\apache-tomcat-9.0.120\webapps\docs] has finished in [579] ms
+07-Aug-2026 17:35:18.479 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\rays software\apache-tomcat-9.0.120\webapps\examples]
+07-Aug-2026 17:35:20.261 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\rays software\apache-tomcat-9.0.120\webapps\examples] has finished in [1,782] ms
+07-Aug-2026 17:35:20.275 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\rays software\apache-tomcat-9.0.120\webapps\host-manager]
+07-Aug-2026 17:35:20.402 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\rays software\apache-tomcat-9.0.120\webapps\host-manager] has finished in [141] ms
+07-Aug-2026 17:35:20.402 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\rays software\apache-tomcat-9.0.120\webapps\manager]
+07-Aug-2026 17:35:20.523 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\rays software\apache-tomcat-9.0.120\webapps\manager] has finished in [121] ms
+07-Aug-2026 17:35:20.525 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\rays software\apache-tomcat-9.0.120\webapps\ROOT]
+07-Aug-2026 17:35:20.606 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\rays software\apache-tomcat-9.0.120\webapps\ROOT] has finished in [81] ms
+07-Aug-2026 17:35:20.621 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8081"]
+07-Aug-2026 17:35:20.713 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [2900] milliseconds
+07-Aug-2026 17:38:42.501 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+07-Aug-2026 17:38:42.503 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8081"]
+07-Aug-2026 17:38:42.522 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+07-Aug-2026 17:38:42.599 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8081"]
+07-Aug-2026 17:38:42.617 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8081"]
+07-Aug-2026 17:38:53.390 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.120
+07-Aug-2026 17:38:53.397 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jul 3 2026 07:49:53 UTC
+07-Aug-2026 17:38:53.397 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.120.0
+07-Aug-2026 17:38:53.397 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+07-Aug-2026 17:38:53.399 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+07-Aug-2026 17:38:53.399 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+07-Aug-2026 17:38:53.399 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-21.0.12
+07-Aug-2026 17:38:53.399 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.12+7-LTS-205
+07-Aug-2026 17:38:53.399 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+07-Aug-2026 17:38:53.399 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\rays software\apache-tomcat-9.0.120
+07-Aug-2026 17:38:53.399 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\rays software\apache-tomcat-9.0.120
+07-Aug-2026 17:38:53.407 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+07-Aug-2026 17:38:53.407 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.invoke=ALL-UNNAMED
+07-Aug-2026 17:38:53.407 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+07-Aug-2026 17:38:53.407 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+07-Aug-2026 17:38:53.407 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+07-Aug-2026 17:38:53.407 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+07-Aug-2026 17:38:53.407 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+07-Aug-2026 17:38:53.407 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\rays software\apache-tomcat-9.0.120\conf\logging.properties
+07-Aug-2026 17:38:53.407 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+07-Aug-2026 17:38:53.407 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+07-Aug-2026 17:38:53.407 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+07-Aug-2026 17:38:53.412 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.io.useCanonCaches=false
+07-Aug-2026 17:38:53.412 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+07-Aug-2026 17:38:53.412 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\rays software\apache-tomcat-9.0.120
+07-Aug-2026 17:38:53.412 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\rays software\apache-tomcat-9.0.120
+07-Aug-2026 17:38:53.412 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\rays software\apache-tomcat-9.0.120\temp
+07-Aug-2026 17:38:53.416 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.3.8] using APR version [1.7.6].
+07-Aug-2026 17:38:53.416 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+07-Aug-2026 17:38:53.416 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+07-Aug-2026 17:38:53.428 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.21 9 Jun 2026]
+07-Aug-2026 17:38:53.759 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8081"]
+07-Aug-2026 17:38:53.790 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [587] milliseconds
+07-Aug-2026 17:38:53.854 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+07-Aug-2026 17:38:53.854 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.120]
+07-Aug-2026 17:38:53.873 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\rays software\apache-tomcat-9.0.120\webapps\docs]
+07-Aug-2026 17:38:54.203 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\rays software\apache-tomcat-9.0.120\webapps\docs] has finished in [330] ms
+07-Aug-2026 17:38:54.203 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\rays software\apache-tomcat-9.0.120\webapps\examples]
+07-Aug-2026 17:38:54.576 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\rays software\apache-tomcat-9.0.120\webapps\examples] has finished in [373] ms
+07-Aug-2026 17:38:54.583 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\rays software\apache-tomcat-9.0.120\webapps\host-manager]
+07-Aug-2026 17:38:54.616 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\rays software\apache-tomcat-9.0.120\webapps\host-manager] has finished in [33] ms
+07-Aug-2026 17:38:54.616 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\rays software\apache-tomcat-9.0.120\webapps\manager]
+07-Aug-2026 17:38:54.653 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\rays software\apache-tomcat-9.0.120\webapps\manager] has finished in [37] ms
+07-Aug-2026 17:38:54.653 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\rays software\apache-tomcat-9.0.120\webapps\ROOT]
+07-Aug-2026 17:38:54.684 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\rays software\apache-tomcat-9.0.120\webapps\ROOT] has finished in [31] ms
+07-Aug-2026 17:38:54.690 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8081"]
+07-Aug-2026 17:38:54.709 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [917] milliseconds
+07-Aug-2026 17:39:41.654 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8081"]
+07-Aug-2026 17:39:41.671 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+07-Aug-2026 17:39:41.704 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8081"]
+07-Aug-2026 17:39:41.723 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8081"]
